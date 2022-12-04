@@ -1,4 +1,4 @@
-# Python-API-Project-for-Marvel-Characters
+# Python API Project for Marvel Characters
 
 The Marvel Comics API is a tool to help developers everywhere create amazing, uncanny, and incredible websites and applications using data from the 70-plus years of the Marvel age of comics. The Marvel Comics API is a RESTful service that provides methods for accessing specific resources at canonical URLs and for searching and filtering sets of resources by various criteria. All representations are encoded as JSON objects.
 
