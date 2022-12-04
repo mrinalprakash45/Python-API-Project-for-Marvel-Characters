@@ -9,4 +9,5 @@ You can access six resource types using the API:
 - Comic stories: indivisible, reusable components of comics. For example, the cover from Amazing Fantasy #15 or the origin of the Spider-Man story from that comic.
 - Comic events and crossovers: big, universe-altering storylines. For example, Infinity
 - Creators: women, men, and organizations who create comics. For example, Jack Kirby.
-- Characters: the women, men, organizations, alien species, deities, animals, non-corporeal entities, trans-dimensional manifestations, abstract personifications, and green amorphous blobs which occupy the Marvel Universe (and various alternate universes, timelines, and altered realities therein). For example, Spider-Man.
+- Images: image of the Marvel Character which you searched for.
+- Characters: the women, men, organizations, alien species, deities, animals, non-corporeal entities, trans-dimensional manifestations, abstract personifications, and green amorphous blobs which occupy the Marvel Universe (and various alternate universes, timelines, and altered realities therein). For example, Captain America.
